@@ -1,1 +1,4 @@
 *       @external-secrets/maintainers
+
+# Protect .github/agents folder for GitHub Copilot agents
+/.github/agents/ @external-secrets/maintainers
